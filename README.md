@@ -8,7 +8,3 @@ The purpose of this repository is to organize and share various assignments, pro
 
 Feel free to explore the content and contribute to the repository!
 
----
-**Author:** Yixuan Ni  
-**Institution:** University of Michigan - Ann Arbor  
-**Course:** Stats 507 - Data Science in Python
